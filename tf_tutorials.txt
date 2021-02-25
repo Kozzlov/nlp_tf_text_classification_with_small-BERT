@@ -1,0 +1,16 @@
+https://www.tensorflow.org/tutorials/keras/text_classification - text classification with tf
+https://www.tensorflow.org/tensorboard/get_started - Get started with TensorBoard (visualizagion)
+https://cs.stanford.edu/people/karpathy/deepimagesent/ - image captioning (RNN)
+https://www.tensorflow.org/guide/keras/rnn#rnn_state_reuse - tensorflow RNN guide 
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/GRU - tensorflow GRU layer
+https://www.tensorflow.org/guide/keras/custom_layers_and_models - making new Layers and Models via subclassing
+https://www.tensorflow.org/tutorials/text/classify_text_with_bert - tensorflow BERT model 
+https://www.tensorflow.org/tutorials/text/solve_glue_tasks_using_bert_on_tpu - Solve GLUE tasks using BERT on TPU
+
+https://medium.com/@ODSC/properly-setting-the-random-seed-in-ml-experiments-not-as-simple-as-you-might-imagine-219969c84752 - seed article
+
+MOKOloko data science 
+zero-short learning 
+dialog flow - google
+fb - chatbot integration  
+
